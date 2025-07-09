@@ -15,7 +15,6 @@ When the Trails & Tails update came out, I found trims to be very dissapointing,
 - Quartz: 2.25 max health
 - Lapis: 25% increased xp
 - Amethyst: 1 attack damage
-Vanilla Backport (until updated to next major version and resin is available in vanilla)
-- Resin: Sneak to lower damage but lose movement, removes jump height, movement, and reach. But gives resistance until you stop sneaking. Full set gives complete damage reduction but immbolizes you
+- Resin: Sneak to lower damage but lose movement, removes jump height, movement, and reach. But gives resistance until you stop sneaking. Full set gives complete damage reduction but immbolizes you. This is only for vanilla backport mod if installed as of now
 
 </details>
